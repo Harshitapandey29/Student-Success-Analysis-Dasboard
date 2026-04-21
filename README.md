@@ -2,7 +2,7 @@
 An interactive Excel dashboard designed to analyze student academic performance and identify key factors influencing exam results.
 This project demonstrates data cleaning, exploratory data analysis, dashboard design, and business insight generation using Excel.
 
---
+
 
 ## 📌 Project Overview:
 Educational institutions often need to understand why students succeed or struggle academically.
@@ -13,7 +13,7 @@ This dashboard analyzes 10,000 student records to uncover insights into:
 ✔ Engagement and participation influence
 ✔ Key factors affecting high-performing vs at-risk students
 
---
+
 
 ## 🎯 Project Objectives
 The key objectives of this project were:
@@ -24,7 +24,7 @@ The key objectives of this project were:
 4. Provide clear insights for stakeholders
 5. Build a professional interactive Excel dashboard
 
---
+
 
 ## 📈 Dashboard Components
 
@@ -55,16 +55,16 @@ Evaluates whether participation in discussions affects exam scores.
 
 Chart Type: Bar / Distribution Chart
 
---
+
 
 ## 🔍 Key Insights:
 
-📌 Nearly 48% of students are categorized as At Risk
-📌 Students with high stress levels tend to have lower exam scores
-📌 Engagement in discussions slightly improves academic performance
-📌 Assignment completion rate and attendance strongly influence exam results
+1. Nearly 48% of students are categorized as At Risk
+2. Students with high stress levels tend to have lower exam scores
+3. Engagement in discussions slightly improves academic performance
+4. Assignment completion rate and attendance strongly influence exam results
 
---
+
 
 ## 🛠 Tools & Skills Used:
 
@@ -80,7 +80,7 @@ Conditional Formatting
 Dashboard Design
 Interactive Slicers
 
---
+
 
 ## 👩‍💻 Author:
 
